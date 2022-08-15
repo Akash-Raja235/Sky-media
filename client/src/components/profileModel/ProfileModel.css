@@ -1,0 +1,28 @@
+
+
+ 
+
+ .infoForm{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  
+    
+ }
+ .infoForm h3{
+    text-align: center;
+ }
+ .full .infoInput{
+    width: 86%;
+ }
+.infoInput{
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: lightgray;
+     margin-left: 10px;
+    
+    padding: 10px;
+
+}
+

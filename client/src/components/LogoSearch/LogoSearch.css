@@ -1,0 +1,39 @@
+
+
+.LogoSerach{
+    display: flex;
+    gap: 0.75rem;
+    flex-direction: row;
+    align-items: center;
+
+}
+.search{
+display: flex;
+align-items: center;
+background-color: whitesmoke;
+border-radius: 10px;
+padding: 5px;
+}
+.logo_image img{
+    width: 40px;
+}
+.search input{
+   background-color: transparent;
+   border: none;
+   outline: none;
+
+}
+.s_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    border-radius: 5px;
+    color: white;
+    padding: 4px;
+    background:linear-gradient(106.23deg,#f99827,#f95f35 100%)
+     
+}
+.s_icon :hover{
+cursor: pointer;
+}

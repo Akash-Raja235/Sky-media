@@ -1,0 +1,15 @@
+
+
+
+
+.home_area{
+  padding: 1rem 1rem;
+  position: relative;
+  display: grid;
+  grid-template-columns: 18rem auto 20rem;
+  grid: 1rem;
+
+  
+
+}
+

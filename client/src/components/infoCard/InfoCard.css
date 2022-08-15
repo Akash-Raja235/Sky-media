@@ -1,0 +1,29 @@
+
+.InfoCard{
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 90%;
+    margin: 1rem;
+   
+}     
+.info_head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info_detail{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: left;
+}
+
+
+.profile_info>span:nth-of-type(1){
+    font-weight: bold;
+    
+}

@@ -1,0 +1,24 @@
+
+
+.Header {
+    position: sticky;
+    top: 0;
+    background-color: lightblue;
+    height: 4rem;
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+
+}
+
+.Header {
+    display: grid;
+    grid-template-columns: 18rem auto 20rem;
+    grid: 1rem;
+}
+
+.Header_rightside {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}

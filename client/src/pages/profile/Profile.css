@@ -1,0 +1,18 @@
+
+
+.profile_area{
+    position: relative;
+    display: grid;
+    grid-template-columns: 18rem auto 20rem;
+    gap: 1rem;
+}
+.post_area{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.profile_right{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
